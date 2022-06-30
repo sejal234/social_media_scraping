@@ -3,3 +3,4 @@ Note that I have elevated Twitter access. Learn about elevated access [here](htt
 
 ## What Can I Do?
 - [Find & visualize a user's retweets and likes over time](https://github.com/sejal234/social_media_scraping/blob/main/Publishable_Twitter_Metrics_Over_Time.ipynb)
+- [How popular are tweets with certain keywords?](https://github.com/sejal234/social_media_scraping/blob/main/Keywords%20Twitter.py)
