@@ -6,3 +6,4 @@ On the Beto for Texas team, I scraped twitter data to learn about retweets/likes
 
 ## What Do I Need?
 - Elevated Twitter access. Learn about elevated access [here](https://developer.twitter.com/en/portal/products/elevated). The application only took a day to process for me. 
+- I code in Python and use Tweepy, Pandas libraries. 
